@@ -1,0 +1,6 @@
+{
+  "name": "밀꽃 베이커리 - 오늘의 빵 예약",
+  "description": "따뜻한 동네 빵집의 갓 구운 당일 빵 시간표 및 간편 픽업 예약 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
